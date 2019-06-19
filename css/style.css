@@ -1,0 +1,62 @@
+body{
+    background-image: linear-gradient(rgb(184, 212, 221),white);
+}
+.head{
+    background:white;
+    overflow: hidden;
+    position: fixed; 
+    top: 0; 
+    width: 100%;
+    
+}
+.fa-code{
+    padding: 20px;
+    font-size: 5em;
+    display: inline;
+}
+h1{
+    display: inline;
+    font-size: 4em;
+}
+li:hover{
+    background:steelblue;
+}
+ul{
+    display: inline;
+    float: right;
+    padding:30px;
+}
+ul li{
+    display: inline;
+    padding: 20px; 
+    
+}
+.container_12{
+    border: solid thin white;
+    padding: 20px;
+}
+a{
+    text-decoration:none;
+    color:black;
+    font-size: 1.2em;
+}
+a:hover{
+    color:white;
+}
+.subcolumn{
+    display: block;
+}
+.fa-instagram,.fa-facebook-f,.fa-youtube,.fa-twitter{
+    padding: 10px;
+    font-size: 1.5em;
+}
+img{
+    padding-top: 50px;
+}
+.footer{
+    background-color:lightblue;
+    height: 140px;
+}
+.icon{
+    float:right;
+}
