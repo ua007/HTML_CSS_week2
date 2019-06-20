@@ -12,3 +12,7 @@ tile.png
 tile-wide.png
 js/
 doc/
+.editorconfig
+.gitattributes
+.htaccess
+_config.yml
